@@ -1,8 +1,9 @@
 #img-bg{
     background-image: url('https://lh4.googleusercontent.com/proxy/0UvM6J8bIbBSlpWaWTijLHa6ul_HIQuCwUXgxjXrvUG9NxowhlRnjZhWkHIwjQ8lVQLX6pY0eTL1nlOA4CQBfe3KXIN5AwNR03Hgc8RLeg1Cd-iaUak-_L44Z_JINkrYIg_qt0IeM9HECMp6Y3MIBAMvhWyq6U3_YY2I=s0-d');
 
-    min-height: 945px;
-    
+    min-height: 947px;
+    max-height: 947px;
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
