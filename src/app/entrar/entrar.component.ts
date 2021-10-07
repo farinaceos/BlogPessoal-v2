@@ -31,11 +31,6 @@ userLogin: UserLogin = new UserLogin()
       environment.nome = this.userLogin.nome
       environment.token = this.userLogin.token
 
-      console.log(environment.foto)
-      console.log(environment.id)
-      console.log(environment.nome)
-      console.log(environment.token)
-
       this.router.navigate(['/inicio'])
     }, erro =>{
       if(erro.status == 500){
